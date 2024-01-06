@@ -29,7 +29,7 @@ Threre are three functions in this application:
     - store the user input in an object to return as group of options
     - return the object to the function when the function is called
  ```
-    
+![Screenshots](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.06.00.png)
 ```
  2. getRandom(arr)
    - this function will get the random element from an array which is passed as an argument
