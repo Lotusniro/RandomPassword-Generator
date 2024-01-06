@@ -52,7 +52,8 @@ Threre are three functions in this application:
 - result will be pushed to the result array
 - result array is converted to string using join() and returned to the function when the function is called
 ```
-
+![screenshots
+](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.06.49.png)
 ```
 4. writePassword()
    - this function is already provided in the starter code
