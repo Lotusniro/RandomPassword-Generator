@@ -38,8 +38,8 @@ Threre are three functions in this application:
    - arr[randomIndex] is used to get the random element from the array and return it to the function when the function is called
 
 ```
-
-
+![screenshots
+](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.06.20.png)
 
 ```
 3. generatePassword()
