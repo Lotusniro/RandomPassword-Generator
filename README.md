@@ -40,7 +40,7 @@ Threre are three functions in this application:
 ```
 ![screenshots
 ](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.06.20.png)
-
+![screenshots](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.06.42.png)
 ```
 3. generatePassword()
    - this function will generate the password based on the user selected criteria
