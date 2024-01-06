@@ -12,7 +12,9 @@ Threre are three functions in this application:
 
 
 ![Screenshots
-](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.05.35.png)```
+](https://github.com/Lotusniro/RandomPassword-Generator/blob/main/screenshots/Screenshot%202024-01-06%20at%2013.05.35.png)
+
+```
 1. getPasswordOptions()
     - prompt the user to select the length of the password
     - parseInt() to convert the input to integer
