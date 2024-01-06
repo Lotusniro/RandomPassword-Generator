@@ -87,8 +87,13 @@ n/a
 If you have any questions, please contact me at the email below. Check out my Github portfolio for more of my projects!
 
 - Github Username: Lotusniro
-- Github Link for this project: ![githublink
+- Github Link for this project: 
+![
 ](https://lotusniro.github.io/RandomPassword-Generator/)https://lotusniro.github.io/RandomPassword-Generator/
+
+-link two:
+![
+](https://github.com/Lotusniro/RandomPassword-Generator)https://github.com/Lotusniro/RandomPassword-Generator
 
 
 
